@@ -36,3 +36,13 @@ body {
     border-radius: 12px;
     cursor: pointer;
 }
+
+.open-modal:hover {
+    background-color: #0056b3;
+}
+.footer {
+    margin-top: 180px;
+    text-align: center;
+    font-size: 14px;
+    color: blueviolet;
+}
